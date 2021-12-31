@@ -15,7 +15,8 @@ describe('Render a todo component',()=>{
     it('Render a h2',()=>{
         expect(wrapper.find('h2').exists()).toBeTruthy()
     })
-
+  
+    
 
 
 
