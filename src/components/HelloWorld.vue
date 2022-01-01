@@ -17,7 +17,6 @@ export default {
    return{
       tempMsg:"",
       msg:""
-      
    }
  },
  methods:{
@@ -25,9 +24,7 @@ export default {
    {
      this.msg=this.tempMsg
    }
-
  }
-
 }
 </script>
 
